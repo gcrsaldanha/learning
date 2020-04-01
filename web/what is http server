@@ -1,0 +1,9 @@
+https://www.afternerd.com/blog/python-http-server/
+
+1. Listens for incoming http requests on a specific TCP socket address (IP:PORT)
+2. Handles this request and sends a response back to the client (requester)
+
+
+## `http.server.SimpleHTTPRequestHandler`
+A HTTP request handler that serves files from the current directory and any of its subdirectories.
+
